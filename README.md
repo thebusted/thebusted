@@ -9,8 +9,6 @@ I'm someone who believes in building with purpose and teaching with heart. By da
 
 <img src="https://github-readme-stats.vercel.app/api?username=thebusted&show_icons=true&theme=radical" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebusted&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
