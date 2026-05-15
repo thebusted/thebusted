@@ -1,0 +1,26 @@
+name: generate profile summary cards
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: thebusted
+          UTC_OFFSET: 7
+          EXCLUDE: "JavaScript,HTML,CSS,SCSS,Jupyter Notebook"

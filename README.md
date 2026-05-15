@@ -1,17 +1,79 @@
-Hey there 👋
+<!-- BANNER -->
+<div align="center">
 
-I'm someone who believes in building with purpose and teaching with heart. By day, I'm a dedicated computer science teacher helping young minds grow. By night, and often on weekends, I dive into code, robotics, and AI. I'm always searching for ways to make education smarter, friendlier, and more fun. Whether it's developing school systems, building detection models on micro:bit, or crafting story-driven tools for kids, I aim to blend logic with creativity. One line of code (or cupcake) at a time.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1B1B2E,100:7C3AED&height=200&section=header&text=kwang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=ai%20engineer%20%C2%B7%20solo%20operator%20%C2%B7%20chiang%20mai%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descAlignY=60&animation=fadeIn" alt="kwang — ai engineer & solo operator" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebusted&label=Profile%20views&color=0e75b6&style=flat" alt="thebusted" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebusted" alt="thebusted" /></a> </p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebusted&langs_count=6&hide=JavaScript,CSS,HTML,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+<!-- TAGLINE -->
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thebusted&show_icons=true&theme=radical" />
+<a href="https://github.com/thebusted">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&lines=quant+signals+at+midnight;riceguard+sensors+in+the+field;100%2B+claude+code+skills%2C+all+mine;building+memsudo+as+a+second+brain" alt="rotating taglines" />
+</a>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+</div>
+
+<br />
+
+## 🟢 now running
+
+| stream | what i'm operating | repos |
+| :--- | :--- | :--- |
+| 📈 **trading** | gold-sigtrader (MT5 scanners) · liq-signal (Polymarket → Redis → maker bot) · poly-arb | [quantagent](https://github.com/thebusted/quantagent) |
+| 🤝 **clients** | Betfair (UK) swap audit + volume pipeline · RiceGuard (IoT for thai farmers) · iStudent Connect (school SaaS) | [go-thailand](https://github.com/go-thailand) |
+| 🛠️ **products** | DAD Asset Management · BaanRow real-estate blog · Thailand TagID | [baanrow.com](https://baanrow.com) |
+| 🧠 **infra** | memsudo (personal palace) · Oracle (186 repos · MCP memory) · ~100 Claude Code skills | [memsudo](https://github.com/thebusted/memsudo) · [oracle-v2](https://github.com/thebusted/oracle-v2) |
+
+## 🔧 stack
+
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-%23FDB515.svg?style=for-the-badge&logo=timescale&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-%237C3AED.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![LINE](https://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+## 📊 github
+
+<div align="center">
+
+<img height="180" src="./profile-summary-card-output/2077/0-profile-details.svg" alt="profile details" />
+<img height="180" src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="most commit language" />
+
+</div>
+
+## 🐍 lately
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thebusted/thebusted/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+
+</div>
+
+## 📡 reach
+
+<div align="center">
+
+<a href="mailto:tksumeth@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://me.ggez.work"><img src="https://img.shields.io/badge/portfolio-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://github.com/thebusted"><img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://github.com/go-thailand"><img src="https://img.shields.io/badge/go--thailand-org-%2300ADD8?style=for-the-badge&logo=github&logoColor=white" alt="go-thailand org" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub><em>พลาดได้ แต่ต้องกลับมาได้.</em></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1B1B2E,100:0F1419&height=80&section=footer" alt="" />
+
+</div>
