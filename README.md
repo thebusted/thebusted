@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/thebusted">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&lines=quant+signals+at+midnight;riceguard+sensors+in+the+field;100%2B+claude+code+skills%2C+all+mine;building+memsudo+as+a+second+brain" alt="rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&lines=quant+signals+at+midnight;shipping+side+bets+across+many+streams;100%2B+claude+code+skills%2C+all+mine;building+memsudo+as+a+second+brain" alt="rotating taglines" />
 </a>
 
 </div>
@@ -21,8 +21,8 @@
 | stream | what i'm operating | repos |
 | :--- | :--- | :--- |
 | 📈 **trading** | gold-sigtrader (MT5 scanners) · liq-signal (Polymarket → Redis → maker bot) · poly-arb | [quantagent](https://github.com/thebusted/quantagent) |
-| 🤝 **clients** | Betfair (UK) swap audit + volume pipeline · RiceGuard (IoT for thai farmers) · iStudent Connect (school SaaS) | [go-thailand](https://github.com/go-thailand) |
-| 🛠️ **products** | DAD Asset Management · BaanRow real-estate blog · Thailand TagID | [baanrow.com](https://baanrow.com) |
+| 🤝 **clients** | UK sports-betting volume pipeline · thai school SaaS · various contract work | private |
+| 🛠️ **products** | asset management · real-estate content engine · vehicle tag IDs | [baanrow.com](https://baanrow.com) |
 | 🧠 **infra** | memsudo (personal palace) · Oracle (186 repos · MCP memory) · ~100 Claude Code skills | [memsudo](https://github.com/thebusted/memsudo) · [oracle-v2](https://github.com/thebusted/oracle-v2) |
 
 ## 🔧 stack
@@ -64,7 +64,6 @@
 <a href="mailto:tksumeth@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://me.ggez.work"><img src="https://img.shields.io/badge/portfolio-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 <a href="https://github.com/thebusted"><img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://github.com/go-thailand"><img src="https://img.shields.io/badge/go--thailand-org-%2300ADD8?style=for-the-badge&logo=github&logoColor=white" alt="go-thailand org" /></a>
 
 </div>
 
