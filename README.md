@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1B1B2E,100:7C3AED&height=200&section=header&text=kwang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=ai%20engineer%20%C2%B7%20solo%20operator%20%C2%B7%20chiang%20mai%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descAlignY=60&animation=fadeIn" alt="kwang — ai engineer & solo operator" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1B1B2E,100:7C3AED&height=200&section=header&text=thebusted&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ai%20engineer%20%C2%B7%20solo%20operator%20%C2%B7%20chiang%20mai%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descAlignY=60&animation=fadeIn" alt="thebusted — ai engineer & solo operator" />
 
 </div>
 
@@ -38,21 +38,21 @@ things i've shipped that you can clone right now.
 | [mcp-mysql-server](https://github.com/thebusted/mcp-mysql-server) | MCP server for MySQL — AI tools can query your DB safely |
 | [SSH-MCP](https://github.com/thebusted/SSH-MCP) | MCP server for SSH — Claude Desktop / VS Code → your VPS |
 
-## 🪄 claude code skills (some of mine)
+## 🪄 claude code skills (mine, not stock)
 
 ```bash
-/boris-workflow   # plan-first dev — research → annotate → implement gates
-/forward          # session handoff + memory carry to next conversation
-/focus            # multi-area work tracker across many parallel streams
-/wrap             # autonomous end-of-session — retro + handoff + commit + push
-/recap            # session orientation when you've lost the thread
-/orchestrator     # opus dispatches codex + gemini workers in parallel tmux
-/kwang-style      # voice/copy discipline — Stuart-Mirror as default
-/standup          # daily standup — pending tasks, appointments, recent progress
-/trace            # find projects across git history + repos + Oracle vault
-/dig              # mine Claude Code sessions — timeline, gaps, attribution
-/xray             # introspect memory + installed skills + session history
-/watch            # learn from YouTube via Gemini transcription
+/boris-workflow    # plan-first dev — research → annotate → implement gates
+/orchestrator      # opus dispatches codex + gemini workers in parallel tmux
+/focus             # multi-area work tracker across many parallel streams
+/forward           # session handoff + memory carry to next conversation
+/wrap              # autonomous session end — retro + handoff + commit + push
+/recap             # session orientation when you've lost the thread
+/resonance         # capture the "yes!" moments — what clicks, when, why
+/talk-to           # agent-to-agent messaging across separate processes
+/codex-cron        # file-based job queue — scheduled monitoring tasks
+/skill-builder     # meta-skill that builds new skills from a workflow
+/team-whiteboard   # hand-drawn Excalidraw meeting-board generator
+/baanrow-blog      # end-to-end autonomous blog publisher pipeline
 # ...100+ more in the palace
 ```
 
