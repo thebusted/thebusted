@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1B1B2E,100:7C3AED&height=200&section=header&text=thebusted&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ai%20engineer%20%C2%B7%20solo%20operator%20%C2%B7%20chiang%20mai%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descAlignY=60&animation=fadeIn" alt="thebusted — ai engineer & solo operator" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1B1B2E,100:7C3AED&height=200&section=header&text=thebusted&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ai%20engineer%20%C2%B7%20computer%20vision%20%C2%B7%20solo%20operator%20%C2%B7%20chiang%20mai%20%F0%9F%87%B9%F0%9F%87%AD&descSize=18&descAlignY=60&animation=fadeIn" alt="thebusted — ai engineer & solo operator" />
 
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/thebusted">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&lines=quant+signals+at+midnight;shipping+side+bets+across+many+streams;100%2B+claude+code+skills%2C+all+mine;building+memsudo+as+a+second+brain" alt="rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&lines=face+%2B+vehicle+recognition+on+live+cctv;llm+agents+that+review+cv+output;quant+signals+at+midnight;shipping+side+bets+across+many+streams;100%2B+claude+code+skills%2C+all+mine;building+memsudo+as+a+second+brain" alt="rotating taglines" />
 </a>
 
 </div>
@@ -20,10 +20,11 @@
 
 | stream | what i'm operating | repos |
 | :--- | :--- | :--- |
-| 📈 **trading** | gold-sigtrader (MT5 scanners) · liq-signal (Polymarket → Redis → maker bot) · poly-arb | [quantagent](https://github.com/thebusted/quantagent) |
-| 🤝 **clients** | UK sports-betting volume pipeline · thai school SaaS · various contract work | private |
+| 👁️ **ai @ Mobile AI** | computer vision on live CCTV: linking faces to vehicles · multi-modal search (face / vehicle / person) · data lake · a Claude agent that reviews CV output with a human in the loop | private |
+| 📈 **trading** | gold-sigtrader (MT5 scanners) · gold-auto (MT5 bridge + Pi 5 engine) · liq-signal (Polymarket → Redis → maker bot) · poly-arb | [quantagent](https://github.com/thebusted/quantagent) |
+| 🤝 **clients** | thai school SaaS + LINE OA · POS · websites for small business · various contract work | private |
 | 🛠️ **products** | asset management · real-estate content engine · vehicle tag IDs | [baanrow.com](https://baanrow.com) |
-| 🧠 **infra** | memsudo (personal palace) · Oracle (186 repos · MCP memory) · ~100 Claude Code skills | [memsudo](https://github.com/thebusted/memsudo) · [oracle-v2](https://github.com/thebusted/oracle-v2) |
+| 🧠 **infra** | memsudo (personal palace) · Oracle (MCP memory) · agenthub (agent-to-agent messaging across machines) · ~100 Claude Code skills · multi-agent rooms with an orchestrator | [memsudo](https://github.com/thebusted/memsudo) · [oracle-v2](https://github.com/thebusted/oracle-v2) |
 
 ## 🚀 open source
 
@@ -74,7 +75,8 @@ things i've shipped that you can clone right now.
 ## 🔭 exploring
 
 - **MCP servers as the new SDK** — building three of my own (memory, SSH, MySQL); convinced this is the API surface AI eats next
-- **agentic evals across platforms** — Turing, Outlier, Apron — what gets graded teaches what to ship
+- **agentic evals across platforms** — Turing, Apron — what gets graded teaches what to ship
+- **LLM agents as reviewers** — an agent judges live CV results, unclear cases go to a person, every call logged with its cost
 - **multi-timeframe gold quant** — Fisher + SuperTrend + HTF key-level confluence on MT5, signals streamed to LINE
 
 ## 📊 github
